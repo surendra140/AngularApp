@@ -1,0 +1,14 @@
+
+ .sectionCards img {
+    padding: 20px;
+    height: 180px;
+    width: 250px;
+    }
+    .sectionCards {
+    display: flex;
+    margin-top: 30px;
+    width: fit-content;
+    height: 40%;
+    
+    margin: 10px;
+    }

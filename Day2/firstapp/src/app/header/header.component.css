@@ -1,0 +1,22 @@
+
+  .container{
+  clear:both;
+  overflow:hidden;
+}
+nav{
+  float:left;
+}
+
+.logo img{
+  float:left;
+  margin-top: -25px;
+}
+
+ul li{
+  display: inline-block; padding:10px;
+  font-size:20px; font-family:raleway;
+}
+ul li:hover{
+  color:orange;
+  
+}
