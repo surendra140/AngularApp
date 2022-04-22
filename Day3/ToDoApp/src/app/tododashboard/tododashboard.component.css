@@ -1,0 +1,30 @@
+.container {
+    margin-left: 35%;
+    margin-top: 5%;
+  
+  }
+
+  .input-field{
+  position: relative;
+  height: 50px;
+  width: 80%;
+}
+.input-field input{
+  padding: 5px 35px;
+  font-size: 16px;
+}
+.input-field label{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+button{
+  margin-left: 90px;
+  margin-top: 10px;
+  background-color: rgb(8, 182, 240);
+  height: 30px;
+  border: none;
+  width: 100px;
+  border-radius: 5px;
+  font-weight: 700;
+}
