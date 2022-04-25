@@ -1,7 +1,9 @@
-footer {
+h4 {
     text-align: center;
     background-color: rgb(166, 179, 245);
     color: rgb(7, 7, 7);
     padding: 3px;
-    margin-top: 15%;
+    margin-top: 20%;
+    height: 40px;
+  
   }

@@ -8,6 +8,8 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { HeroComponent } from './hero/hero.component';
 import { SpecializationComponent } from './specialization/specialization.component';
 import { FoooterComponent } from './foooter/foooter.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatSliderModule } from '@angular/material/slider';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { FoooterComponent } from './foooter/foooter.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    MatSliderModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
